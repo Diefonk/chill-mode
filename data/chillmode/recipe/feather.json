@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"S": {
+			"item": "string"
+		},
+		"I": {
+			"item": "stick"
+		}
+	},
+	"pattern": [
+		"S S",
+		"S S",
+		" I "
+	],
+	"result": {
+		"id": "feather",
+		"count": 2
+	}
+}

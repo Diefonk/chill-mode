@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "blaze_rod"
+		},
+		{
+			"item": "snowball"
+		}
+	],
+	"result": {
+		"id": "breeze_rod",
+		"count": 1
+	}
+}

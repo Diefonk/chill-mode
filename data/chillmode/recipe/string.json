@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"tag": "wool"
+		}
+	],
+	"result": {
+		"id": "string",
+		"count": 4
+	}
+}

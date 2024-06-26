@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": {
+			"item": "gunpowder"
+		}
+	},
+	"pattern": [
+		"##",
+		"##"
+	],
+	"result": {
+		"id": "creeper_head",
+		"count": 1
+	}
+}

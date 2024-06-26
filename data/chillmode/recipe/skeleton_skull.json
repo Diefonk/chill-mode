@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": {
+			"item": "bone"
+		}
+	},
+	"pattern": [
+		"##",
+		"##"
+	],
+	"result": {
+		"id": "skeleton_skull",
+		"count": 1
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": {
+			"item": "golden_apple"
+		}
+	},
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"result": {
+		"id": "totem_of_undying",
+		"count": 1
+	}
+}

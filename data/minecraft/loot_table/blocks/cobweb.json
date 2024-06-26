@@ -1,0 +1,79 @@
+{
+	"type": "block",
+	"pools": [
+		{
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "alternatives",
+					"children": [
+						{
+							"type": "item",
+							"conditions": [
+								{
+									"condition": "any_of",
+									"terms": [
+										{
+											"condition": "match_tool",
+											"predicate": {
+												"items": "shears"
+											}
+										},
+										{
+											"condition": "match_tool",
+											"predicate": {
+												"predicates": {
+													"enchantments": [
+														{
+															"enchantments": "silk_touch",
+															"levels": {
+																"min": 1
+															}
+														}
+													]
+												}
+											}
+										}
+									]
+								}
+							],
+							"name": "cobweb"
+						},
+						{
+							"type": "alternatives",
+							"children": [
+								{
+									"type": "item",
+									"conditions": [
+										{
+											"chances": [
+												0.1,
+												0.14285715,
+												0.25,
+												1.0
+											],
+											"condition": "table_bonus",
+											"enchantment": "fortune"
+										}
+									],
+									"name": "spider_eye"
+								},
+								{
+									"type": "item",
+									"name": "string"
+								}
+							],
+							"conditions": [
+								{
+									"condition": "survives_explosion"
+								}
+							]
+						}
+					]
+				}
+			],
+			"rolls": 1.0
+		}
+	],
+	"random_sequence": "blocks/cobweb"
+}

@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": {
+			"item": "popped_chorus_fruit"
+		}
+	},
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"result": {
+		"id": "phantom_membrane",
+		"count": 1
+	}
+}

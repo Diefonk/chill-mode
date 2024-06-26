@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": {
+			"item": "rotten_flesh"
+		}
+	},
+	"pattern": [
+		"##",
+		"##"
+	],
+	"result": {
+		"id": "zombie_head",
+		"count": 1
+	}
+}

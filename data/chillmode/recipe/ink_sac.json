@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "potion"
+		},
+		{
+			"tag": "coals"
+		}
+	],
+	"result": {
+		"id": "ink_sac",
+		"count": 1
+	}
+}

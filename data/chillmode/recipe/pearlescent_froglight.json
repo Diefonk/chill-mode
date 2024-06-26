@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"category": "building",
+	"group": "froglight",
+	"key": {
+		"G": {
+			"item": "glowstone"
+		},
+		"P": {
+			"item": "paper"
+		},
+		"D": {
+			"item": "purple_dye"
+		}
+	},
+	"pattern": [
+		"DPD",
+		"PGP",
+		"DPD"
+	],
+	"result": {
+		"id": "pearlescent_froglight",
+		"count": 1
+	}
+}

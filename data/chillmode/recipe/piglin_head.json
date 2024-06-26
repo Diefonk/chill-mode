@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": {
+			"item": "gold_ingot"
+		}
+	},
+	"pattern": [
+		"##",
+		"##"
+	],
+	"result": {
+		"id": "piglin_head",
+		"count": 1
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "leather"
+		}
+	],
+	"result": {
+		"id": "rabbit_hide",
+		"count": 4
+	}
+}

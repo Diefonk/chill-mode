@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "ink_sac"
+		},
+		{
+			"item": "glowstone_dust"
+		}
+	],
+	"result": {
+		"id": "glow_ink_sac",
+		"count": 1
+	}
+}

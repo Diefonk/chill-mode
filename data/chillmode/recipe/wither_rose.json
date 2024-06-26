@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"tag": "small_flowers"
+		},
+		{
+			"item": "wither_skeleton_skull"
+		}
+	],
+	"result": {
+		"id": "wither_rose",
+		"count": 1
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "music_disc",
+	"ingredients": [
+		{
+			"item": "music_disc_mellohi"
+		}
+	],
+	"result": {
+		"id": "music_disc_stal",
+		"count": 1
+	}
+}

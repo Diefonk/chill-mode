@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"P": {
+			"item": "prismarine_shard"
+		},
+		"D": {
+			"item": "diamond"
+		}
+	},
+	"pattern": [
+		"PPP",
+		" D ",
+		" D "
+	],
+	"result": {
+		"id": "trident",
+		"count": 1
+	}
+}

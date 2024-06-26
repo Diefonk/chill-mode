@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": [
+			{
+				"item": "brown_mushroom"
+			},
+			{
+				"item": "red_mushroom"
+			},
+			{
+				"item": "crimson_fungus"
+			},
+			{
+				"item": "warped_fungus"
+			}
+		]
+	},
+	"pattern": [
+		"##",
+		"##"
+	],
+	"result": {
+		"id": "leather",
+		"count": 1
+	}
+}

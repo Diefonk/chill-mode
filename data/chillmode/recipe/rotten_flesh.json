@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"tag": "meat"
+		},
+		{
+			"item": "poisonous_potato"
+		}
+	],
+	"result": {
+		"id": "rotten_flesh",
+		"count": 1
+	}
+}
