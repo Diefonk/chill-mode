@@ -1,34 +1,21 @@
 {
-	"type": "crafting_shapeless",
+	"type": "crafting_shaped",
 	"category": "misc",
-	"ingredients": [
-		{
+	"key": {
+		"N": {
 			"item": "netherite_ingot"
 		},
-		{
+		"G": {
 			"item": "glowstone_dust"
 		},
-		{
-			"item": "nether_wart"
-		},
-		{
-			"item": "basalt"
-		},
-		{
+		"Q": {
 			"item": "quartz"
-		},
-		{
-			"item": "ghast_tear"
-		},
-		{
-			"item": "blaze_rod"
-		},
-		{
-			"item": "crimson_fungus"
-		},
-		{
-			"item": "warped_fungus"
 		}
+	},
+	"pattern": [
+		"GNG",
+		"NQN",
+		"GNG"
 	],
 	"result": {
 		"id": "nether_star",
