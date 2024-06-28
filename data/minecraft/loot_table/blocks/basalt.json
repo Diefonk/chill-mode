@@ -3,11 +3,6 @@
 	"pools": [
 		{
 			"bonus_rolls": 0.0,
-			"conditions": [
-				{
-					"condition": "survives_explosion"
-				}
-			],
 			"entries": [
 				{
 					"type": "alternatives",
@@ -16,26 +11,52 @@
 							"type": "item",
 							"conditions": [
 								{
-									"chances": [
-										0.1,
-										0.14285715,
-										0.25,
-										1.0
-									],
-									"condition": "table_bonus",
-									"enchantment": "fortune"
+									"condition": "match_tool",
+									"predicate": {
+										"predicates": {
+											"enchantments": [
+												{
+													"enchantments": "silk_touch",
+													"levels": {
+														"min": 1
+													}
+												}
+											]
+										}
+									}
 								}
 							],
-							"name": "gunpowder"
+							"name": "basalt"
 						},
 						{
-							"type": "item",
-							"name": "basalt"
-						}
-					],
-					"conditions": [
-						{
-							"condition": "survives_explosion"
+							"type": "alternatives",
+							"children": [
+								{
+									"type": "item",
+									"conditions": [
+										{
+											"chances": [
+												0.1,
+												0.14285715,
+												0.25,
+												1.0
+											],
+											"condition": "table_bonus",
+											"enchantment": "fortune"
+										}
+									],
+									"name": "gunpowder"
+								},
+								{
+									"type": "item",
+									"name": "basalt"
+								}
+							],
+							"conditions": [
+								{
+									"condition": "survives_explosion"
+								}
+							]
 						}
 					]
 				}
