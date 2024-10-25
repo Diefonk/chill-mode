@@ -36,9 +36,7 @@ Ender pearls can be obtained from **piglin bartering**, at double the normal amo
 
 ### Feather
 
-2 feathers can be crafted from **4 strings** and **1 stick**.
-
-![](https://i.imgur.com/PSDCRm5.png)
+Feathers have a chance to drop from **chickens laying eggs**.
 
 ### Froglights
 
