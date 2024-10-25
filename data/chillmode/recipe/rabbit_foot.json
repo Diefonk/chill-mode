@@ -2,12 +2,8 @@
 	"type": "crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "rabbit_hide"
-		},
-		{
-			"tag": "wool"
-		}
+		"rabbit_hide",
+		"#wool"
 	],
 	"result": {
 		"id": "rabbit_foot",

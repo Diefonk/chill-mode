@@ -2,9 +2,7 @@
 	"type": "crafting_shaped",
 	"category": "misc",
 	"key": {
-		"#": {
-			"item": "gold_ingot"
-		}
+		"#": "gold_ingot"
 	},
 	"pattern": [
 		"##",

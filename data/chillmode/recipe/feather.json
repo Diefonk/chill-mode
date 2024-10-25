@@ -2,12 +2,8 @@
 	"type": "crafting_shaped",
 	"category": "misc",
 	"key": {
-		"S": {
-			"item": "string"
-		},
-		"I": {
-			"item": "stick"
-		}
+		"S": "string",
+		"I": "stick"
 	},
 	"pattern": [
 		"S S",

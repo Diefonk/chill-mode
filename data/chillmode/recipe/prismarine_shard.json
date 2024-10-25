@@ -2,9 +2,7 @@
 	"type": "crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "prismarine"
-		}
+		"prismarine"
 	],
 	"result": {
 		"id": "prismarine_shard",

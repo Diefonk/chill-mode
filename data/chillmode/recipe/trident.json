@@ -2,12 +2,8 @@
 	"type": "crafting_shaped",
 	"category": "equipment",
 	"key": {
-		"P": {
-			"item": "prismarine_shard"
-		},
-		"D": {
-			"item": "diamond"
-		}
+		"P": "prismarine_shard",
+		"D": "diamond"
 	},
 	"pattern": [
 		"PPP",

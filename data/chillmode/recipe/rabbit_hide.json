@@ -2,9 +2,7 @@
 	"type": "crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "leather"
-		}
+		"leather"
 	],
 	"result": {
 		"id": "rabbit_hide",

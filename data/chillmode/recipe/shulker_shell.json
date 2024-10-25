@@ -2,12 +2,8 @@
 	"type": "crafting_shaped",
 	"category": "misc",
 	"key": {
-		"P": {
-			"item": "purpur_block"
-		},
-		"D": {
-			"item": "diamond"
-		}
+		"P": "purpur_block",
+		"D": "diamond"
 	},
 	"pattern": [
 		"PPP",

@@ -2,9 +2,7 @@
 	"type": "crafting_shaped",
 	"category": "equipment",
 	"key": {
-		"#": {
-			"item": "golden_apple"
-		}
+		"#": "golden_apple"
 	},
 	"pattern": [
 		"###",

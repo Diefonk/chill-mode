@@ -3,9 +3,7 @@
 	"category": "misc",
 	"group": "music_disc",
 	"ingredients": [
-		{
-			"item": "music_disc_cat"
-		}
+		"music_disc_cat"
 	],
 	"result": {
 		"id": "music_disc_blocks",

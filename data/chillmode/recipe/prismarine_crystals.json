@@ -2,9 +2,7 @@
 	"type": "crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "sea_lantern"
-		}
+		"sea_lantern"
 	],
 	"result": {
 		"id": "prismarine_crystals",

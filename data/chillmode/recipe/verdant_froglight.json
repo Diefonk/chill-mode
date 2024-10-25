@@ -3,15 +3,9 @@
 	"category": "building",
 	"group": "froglight",
 	"key": {
-		"G": {
-			"item": "glowstone"
-		},
-		"P": {
-			"item": "paper"
-		},
-		"D": {
-			"item": "lime_dye"
-		}
+		"G": "glowstone",
+		"P": "paper",
+		"D": "lime_dye"
 	},
 	"pattern": [
 		"DPD",

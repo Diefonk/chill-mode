@@ -3,9 +3,7 @@
 	"category": "misc",
 	"group": "music_disc",
 	"ingredients": [
-		{
-			"item": "music_disc_mall"
-		}
+		"music_disc_mall"
 	],
 	"result": {
 		"id": "music_disc_mellohi",

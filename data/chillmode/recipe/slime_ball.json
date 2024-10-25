@@ -2,15 +2,9 @@
 	"type": "crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "honey_bottle"
-		},
-		{
-			"item": "wheat"
-		},
-		{
-			"item": "lime_dye"
-		}
+		"honey_bottle",
+		"wheat",
+		"lime_dye"
 	],
 	"result": {
 		"id": "slime_ball",

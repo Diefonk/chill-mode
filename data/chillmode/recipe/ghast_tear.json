@@ -2,12 +2,8 @@
 	"type": "crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "crying_obsidian"
-		},
-		{
-			"item": "soul_soil"
-		}
+		"crying_obsidian",
+		"soul_soil"
 	],
 	"result": {
 		"id": "ghast_tear",

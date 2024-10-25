@@ -2,15 +2,9 @@
 	"type": "crafting_shaped",
 	"category": "misc",
 	"key": {
-		"N": {
-			"item": "netherite_ingot"
-		},
-		"G": {
-			"item": "glowstone_dust"
-		},
-		"Q": {
-			"item": "quartz"
-		}
+		"N": "netherite_ingot",
+		"G": "glowstone_dust",
+		"Q": "quartz"
 	},
 	"pattern": [
 		"GNG",

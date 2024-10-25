@@ -3,18 +3,10 @@
 	"category": "misc",
 	"key": {
 		"#": [
-			{
-				"item": "brown_mushroom"
-			},
-			{
-				"item": "red_mushroom"
-			},
-			{
-				"item": "crimson_fungus"
-			},
-			{
-				"item": "warped_fungus"
-			}
+			"brown_mushroom",
+			"red_mushroom",
+			"crimson_fungus",
+			"warped_fungus"
 		]
 	},
 	"pattern": [
