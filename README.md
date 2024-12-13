@@ -142,6 +142,12 @@ All C418 music discs can by cycled through by crafting them.
 
 ![](https://i.imgur.com/VeCPkvJ.png)
 
+### Resin Clump
+
+4 resin clumps can be crafted from **2 stripped pale oak logs** (shapeless).
+
+![](https://i.imgur.com/6UXDEPl.png)
+
 ### Rotten Flesh
 
 1 rotten flesh can be crafted from **1 of any meat** and **1 poisonous potato** (shapeless).

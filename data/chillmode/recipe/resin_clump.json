@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"stripped_pale_oak_log",
+		"stripped_pale_oak_log"
+	],
+	"result": {
+		"id": "resin_clump",
+		"count": 4
+	}
+}
