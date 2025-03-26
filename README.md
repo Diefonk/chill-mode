@@ -90,9 +90,9 @@ Wither skeleton skulls can be obtained from **piglin bartering**.
 
 ### Ink Sac
 
-1 ink sac can be crafted from **1 water bottle** and **1 coal/charcoal** (shapeless).
+1 ink sac can be crafted from **1 water bucket** and **1 coal/charcoal** (shapeless).
 
-![](https://i.imgur.com/YmTAvU7.png)
+![](https://i.imgur.com/GfBjxys.png)
 
 ### Leather
 
@@ -117,12 +117,6 @@ All C418 music discs can by cycled through by crafting them.
 1 phantom membrane can be crafted from **9 popped chorus fruits**.
 
 ![](https://i.imgur.com/5yvR63s.png)
-
-### Prismarine Crystals
-
-5 prismarine crystals can be crafted from **1 sea lantern**.
-
-![](https://i.imgur.com/ExpObWi.png)
 
 ### Prismarine Shard
 
