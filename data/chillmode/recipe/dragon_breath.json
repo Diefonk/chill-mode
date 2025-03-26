@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"B": "glass_bottle",
+		"H": "dragon_head"
+	},
+	"pattern": [
+		"BBB",
+		"BHB",
+		"BBB"
+	],
+	"result": {
+		"id": "dragon_breath",
+		"count": 8
+	}
+}

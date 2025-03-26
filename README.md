@@ -30,6 +30,12 @@ Blaze rods can be obtained from **piglin bartering**.
 
 ![](https://i.imgur.com/Y2ldgS3.png)
 
+### Dragon's Breath
+
+8 dragon's breath can be crafted from **8 glass bottles** and **1 dragon head**.
+
+![](https://i.imgur.com/xfjc7UY.png)
+
 ### Ender Pearl
 
 Ender pearls can be obtained from **piglin bartering**, at double the normal amount.
@@ -87,6 +93,12 @@ Gunpowder has a chance to drop from **mining basalt**.
 ![](https://i.imgur.com/UGCWlc7.png)
 
 Wither skeleton skulls can be obtained from **piglin bartering**.
+
+### Heavy Core
+
+1 heavy core can be crafted from **8 iron ingots** and **1 netherite ingot**.
+
+![](https://i.imgur.com/vO3nu71.png)
 
 ### Ink Sac
 
