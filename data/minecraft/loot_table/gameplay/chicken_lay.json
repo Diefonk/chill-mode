@@ -5,8 +5,54 @@
 			"bonus_rolls": 0.0,
 			"entries": [
 				{
-					"type": "item",
-					"name": "egg"
+					"type": "alternatives",
+					"children": [
+						{
+							"type": "item",
+							"conditions": [
+								{
+									"condition": "entity_properties",
+									"entity": "this",
+									"predicate": {
+										"components": {
+											"chicken/variant": "temperate"
+										}
+									}
+								}
+							],
+							"name": "egg"
+						},
+						{
+							"type": "item",
+							"conditions": [
+								{
+									"condition": "entity_properties",
+									"entity": "this",
+									"predicate": {
+										"components": {
+											"chicken/variant": "warm"
+										}
+									}
+								}
+							],
+							"name": "brown_egg"
+						},
+						{
+							"type": "item",
+							"conditions": [
+								{
+									"condition": "entity_properties",
+									"entity": "this",
+									"predicate": {
+										"components": {
+											"chicken/variant": "cold"
+										}
+									}
+								}
+							],
+							"name": "blue_egg"
+						}
+					]
 				}
 			],
 			"rolls": 1.0
