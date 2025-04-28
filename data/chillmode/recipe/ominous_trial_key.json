@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"trial_key",
+		"ominous_bottle"
+	],
+	"result": {
+		"id": "ominous_trial_key",
+		"count": 1
+	}
+}
