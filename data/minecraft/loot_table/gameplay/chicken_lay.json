@@ -1,83 +1,83 @@
 {
-	"type": "gift",
-	"pools": [
-		{
-			"bonus_rolls": 0.0,
-			"entries": [
-				{
-					"type": "alternatives",
-					"children": [
-						{
-							"type": "item",
-							"conditions": [
-								{
-									"condition": "entity_properties",
-									"entity": "this",
-									"predicate": {
-										"components": {
-											"chicken/variant": "temperate"
-										}
-									}
-								}
-							],
-							"name": "egg"
-						},
-						{
-							"type": "item",
-							"conditions": [
-								{
-									"condition": "entity_properties",
-									"entity": "this",
-									"predicate": {
-										"components": {
-											"chicken/variant": "warm"
-										}
-									}
-								}
-							],
-							"name": "brown_egg"
-						},
-						{
-							"type": "item",
-							"conditions": [
-								{
-									"condition": "entity_properties",
-									"entity": "this",
-									"predicate": {
-										"components": {
-											"chicken/variant": "cold"
-										}
-									}
-								}
-							],
-							"name": "blue_egg"
-						}
-					]
-				}
-			],
-			"rolls": 1.0
-		},
-		{
-			"bonus_rolls": 0.0,
-			"entries": [
-				{
-					"type": "item",
-					"functions": [
-						{
-							"add": false,
-							"count": {
-								"type": "uniform",
-								"max": 1.0,
-								"min": 0.0
-							},
-							"function": "set_count"
-						}
-					],
-					"name": "feather"
-				}
-			],
-			"rolls": 1.0
-		}
-	],
-	"random_sequence": "gameplay/chicken_lay"
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "minecraft:temperate"
+                    }
+                  }
+                }
+              ],
+              "name": "minecraft:egg"
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "minecraft:warm"
+                    }
+                  }
+                }
+              ],
+              "name": "minecraft:brown_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "components": {
+                      "minecraft:chicken/variant": "minecraft:cold"
+                    }
+                  }
+                }
+              ],
+              "name": "minecraft:blue_egg"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+    "bonus_rolls": 0.0,
+    "entries": [
+      {
+        "type": "minecraft:item",
+        "functions": [
+          {
+            "add": false,
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 1.0,
+              "min": 0.0
+            },
+            "function": "minecraft:set_count"
+          }
+        ],
+        "name": "minecraft:feather"
+      }
+    ],
+    "rolls": 1.0
+  }
+  ],
+  "random_sequence": "minecraft:gameplay/chicken_lay"
 }

@@ -1,68 +1,68 @@
 {
-	"type": "block",
-	"pools": [
-		{
-			"bonus_rolls": 0.0,
-			"entries": [
-				{
-					"type": "alternatives",
-					"children": [
-						{
-							"type": "item",
-							"conditions": [
-								{
-									"condition": "match_tool",
-									"predicate": {
-										"predicates": {
-											"enchantments": [
-												{
-													"enchantments": "silk_touch",
-													"levels": {
-														"min": 1
-													}
-												}
-											]
-										}
-									}
-								}
-							],
-							"name": "basalt"
-						},
-						{
-							"type": "alternatives",
-							"children": [
-								{
-									"type": "item",
-									"conditions": [
-										{
-											"chances": [
-												0.1,
-												0.14285715,
-												0.25,
-												1.0
-											],
-											"condition": "table_bonus",
-											"enchantment": "fortune"
-										}
-									],
-									"name": "gunpowder"
-								},
-								{
-									"type": "item",
-									"name": "basalt"
-								}
-							],
-							"conditions": [
-								{
-									"condition": "survives_explosion"
-								}
-							]
-						}
-					]
-				}
-			],
-			"rolls": 1.0
-		}
-	],
-	"random_sequence": "blocks/basalt"
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "minecraft:silk_touch",
+                          "levels": {
+                            "min": 1
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "name": "minecraft:basalt"
+            },
+            {
+              "type": "minecraft:alternatives",
+              "children": [
+                {
+                  "type": "minecraft:item",
+                  "conditions": [
+                    {
+                      "chances": [
+                        0.1,
+                        0.14285715,
+                        0.25,
+                        1.0
+                      ],
+                      "condition": "minecraft:table_bonus",
+                      "enchantment": "minecraft:fortune"
+                    }
+                  ],
+                  "name": "minecraft:gunpowder"
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:basalt"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:survives_explosion"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:blocks/basalt"
 }
