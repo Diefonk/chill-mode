@@ -1,6 +1,7 @@
 {
 	"type": "crafting_shaped",
 	"category": "misc",
+	"group": "head",
 	"key": {
 		"#": "gunpowder"
 	},
