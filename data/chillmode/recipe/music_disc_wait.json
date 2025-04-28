@@ -1,9 +1,15 @@
 {
-	"type": "crafting_shapeless",
+	"type": "crafting_shaped",
 	"category": "misc",
 	"group": "music_disc",
-	"ingredients": [
-		"music_disc_11"
+	"key": {
+		"R": "resin_brick",
+		"#": "heart_of_the_sea"
+	},
+	"pattern": [
+		"RRR",
+		"R#R",
+		"RRR"
 	],
 	"result": {
 		"id": "music_disc_wait",

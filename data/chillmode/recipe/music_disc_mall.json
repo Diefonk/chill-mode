@@ -1,9 +1,15 @@
 {
-	"type": "crafting_shapeless",
+	"type": "crafting_shaped",
 	"category": "misc",
 	"group": "music_disc",
-	"ingredients": [
-		"music_disc_far"
+	"key": {
+		"R": "resin_brick",
+		"#": "shulker_shell"
+	},
+	"pattern": [
+		"RRR",
+		"R#R",
+		"RRR"
 	],
 	"result": {
 		"id": "music_disc_mall",

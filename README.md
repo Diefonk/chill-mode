@@ -26,9 +26,9 @@ Blaze rods can be obtained from **piglin bartering**.
 
 ### Breeze Rod
 
-1 breeze rod can be crafted from **1 blaze rod** and **1 snowball** (shapeless).
+1 breeze rod can be crafted from **1 blaze rod** and **1 wind charge** (shapeless).
 
-![](https://i.imgur.com/Y2ldgS3.png)
+![](https://i.imgur.com/nM8jA0R.png)
 
 ### Dragon's Breath
 
@@ -70,6 +70,10 @@ Feathers have a chance to drop from **chickens laying eggs**.
 
 ![](https://i.imgur.com/talEbnY.png)
 
+### Goat Horn
+
+All goat horn variants can be found in **pillager outpost chests**.
+
 ### Gunpowder
 
 Gunpowder has a chance to drop from **mining basalt**.
@@ -94,12 +98,6 @@ Gunpowder has a chance to drop from **mining basalt**.
 
 Wither skeleton skulls can be obtained from **piglin bartering**.
 
-### Heavy Core
-
-1 heavy core can be crafted from **8 iron ingots** and **1 netherite ingot**.
-
-![](https://i.imgur.com/vO3nu71.png)
-
 ### Ink Sac
 
 1 ink sac can be crafted from **1 water bucket** and **1 coal/charcoal** (shapeless).
@@ -114,9 +112,45 @@ Wither skeleton skulls can be obtained from **piglin bartering**.
 
 ### Music Discs
 
-All C418 music discs can by cycled through by crafting them.
+1 "blocks" music disc can be crafted from **8 resin bricks** and **1 grass block**.
 
-![](https://i.imgur.com/You85Wv.png)
+![](https://i.imgur.com/co91sJz.png)
+
+1 "chirp" music disc can be crafted from **8 resin bricks** and **1 torchflower**.
+
+![](https://i.imgur.com/LqGCiVa.png)
+
+1 "far" music disc can be crafted from **8 resin bricks** and **1 bottle o' enchanting**.
+
+![](https://i.imgur.com/qmwsPex.png)
+
+1 "mall" music disc can be crafted from **8 resin bricks** and **1 shulker shell**.
+
+![](https://i.imgur.com/sjMq3Jh.png)
+
+1 "mellohi" music disc can be crafted from **8 resin bricks** and **1 nautilus shell**.
+
+![](https://i.imgur.com/tUm4PVK.png)
+
+1 "stal" music disc can be crafted from **8 resin bricks** and **1 goat horn**.
+
+![](https://i.imgur.com/Y1Zu9Pl.png)
+
+1 "strad" music disc can be crafted from **8 resin bricks** and **1 saddle**.
+
+![](https://i.imgur.com/41ZAYks.png)
+
+1 "wait" music disc can be crafted from **8 resin bricks** and **1 heart of the sea**.
+
+![](https://i.imgur.com/tRRPG84.png)
+
+1 "ward" music disc can be crafted from **8 resin bricks** and **1 enchanted golden apple**.
+
+![](https://i.imgur.com/gMeaq35.png)
+
+1 "11" music disc can be crafted from **8 resin bricks** and **1 wither skeleton skull**.
+
+![](https://i.imgur.com/nR15iU8.png)
 
 ### Nether Star
 
@@ -191,6 +225,14 @@ Tide armor trim smithing templates can be obtained from **fishing**.
 1 totem of undying can be crafted from **9 golden apples**.
 
 ![](https://i.imgur.com/BBw65CV.png)
+
+### Trial Key
+
+Trial keys can be obtained from **trial chamber pots**, at a higher chance and amount than normal.
+
+1 ominous trial key can be crafted from **1 trial key** and **1 ominous bottle** (shapeless).
+
+![](https://i.imgur.com/390SgmA.png)
 
 ### Trident
 

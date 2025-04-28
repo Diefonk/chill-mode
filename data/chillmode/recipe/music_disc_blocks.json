@@ -1,9 +1,15 @@
 {
-	"type": "crafting_shapeless",
+	"type": "crafting_shaped",
 	"category": "misc",
 	"group": "music_disc",
-	"ingredients": [
-		"music_disc_cat"
+	"key": {
+		"R": "resin_brick",
+		"#": "grass_block"
+	},
+	"pattern": [
+		"RRR",
+		"R#R",
+		"RRR"
 	],
 	"result": {
 		"id": "music_disc_blocks",
