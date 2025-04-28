@@ -3,7 +3,7 @@
 	"category": "misc",
 	"ingredients": [
 		"blaze_rod",
-		"snowball"
+		"wind_charge"
 	],
 	"result": {
 		"id": "breeze_rod",
