@@ -136,9 +136,13 @@ Wither skeleton skulls can be obtained from **piglin bartering**.
 
 ![](https://i.imgur.com/Y1Zu9Pl.png)
 
-1 "strad" music disc can be crafted from **8 resin bricks** and **1 saddle**.
+1 "strad" music disc can be crafted from **8 resin bricks** and **1 diamond horse armor**.
 
-![](https://i.imgur.com/41ZAYks.png)
+![](https://i.imgur.com/OOA6wYC.png)
+
+1 "Tears" music disc can be crafted from **8 resin bricks** and **1 dried ghast**.
+
+![](https://i.imgur.com/rP4tB5Y.png)
 
 1 "wait" music disc can be crafted from **8 resin bricks** and **1 heart of the sea**.
 
@@ -226,7 +230,7 @@ Tide armor trim smithing templates can be obtained from **fishing**.
 
 ![](https://i.imgur.com/BBw65CV.png)
 
-### Trial Key
+### Trial Keys
 
 Trial keys can be obtained from **trial chamber pots**, at a higher chance and amount than normal.
 

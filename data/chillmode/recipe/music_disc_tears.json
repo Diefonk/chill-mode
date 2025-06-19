@@ -4,7 +4,7 @@
 	"group": "music_disc",
 	"key": {
 		"R": "resin_brick",
-		"#": "diamond_horse_armor"
+		"#": "dried_ghast"
 	},
 	"pattern": [
 		"RRR",
@@ -12,7 +12,7 @@
 		"RRR"
 	],
 	"result": {
-		"id": "music_disc_strad",
+		"id": "music_disc_tears",
 		"count": 1
 	}
 }
