@@ -3,14 +3,16 @@
 	"category": "misc",
 	"group": "head",
 	"key": {
-		"#": "bone"
+		"S": "skeleton_skull",
+		"#": "coal"
 	},
 	"pattern": [
-		"##",
-		"##"
+		" # ",
+		"#S#",
+		" # "
 	],
 	"result": {
-		"id": "skeleton_skull",
+		"id": "wither_skeleton_skull",
 		"count": 1
 	}
 }

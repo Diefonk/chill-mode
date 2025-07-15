@@ -3,11 +3,13 @@
 	"category": "misc",
 	"group": "head",
 	"key": {
+		"S": "skeleton_skull",
 		"#": "rotten_flesh"
 	},
 	"pattern": [
-		"##",
-		"##"
+		" # ",
+		"#S#",
+		" # "
 	],
 	"result": {
 		"id": "zombie_head",

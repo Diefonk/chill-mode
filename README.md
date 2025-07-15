@@ -80,23 +80,23 @@ Gunpowder has a chance to drop from **mining basalt**.
 
 ### Heads
 
-1 creeper head can be crafted from **4 gunpowder**.
+Skeleton skulls can be obtained from **piglin bartering**.
 
-![](https://i.imgur.com/zbfoiBU.png)
+1 creeper head can be crafted from **1 skeleton skull** and **4 gunpowder**.
 
-1 piglin head can be crafted from **4 gold ingots**.
+![](https://i.imgur.com/Hz1iLAV.png)
 
-![](https://i.imgur.com/VXiVmux.png)
+1 piglin head can be crafted from **1 skeleton skull** and **4 gold ingots**.
 
-1 skeleton skull can be crafted from **4 bones**.
+![](https://i.imgur.com/9EZTj4Y.png)
 
-![](https://i.imgur.com/zYMIfo5.png)
+1 wither skeleton skull can be crafted from **1 skeleton skull** and **4 coals**.
 
-1 zombie head can be crafted from **4 rotten flesh**.
+![](https://i.imgur.com/UW3CAlF.png)
 
-![](https://i.imgur.com/UGCWlc7.png)
+1 zombie head can be crafted from **1 skeleton skull** and **4 rotten flesh**.
 
-Wither skeleton skulls can be obtained from **piglin bartering**.
+![](https://i.imgur.com/24L9Oel.png)
 
 ### Ink Sac
 

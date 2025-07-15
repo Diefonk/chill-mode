@@ -3,11 +3,13 @@
 	"category": "misc",
 	"group": "head",
 	"key": {
+		"S": "skeleton_skull",
 		"#": "gold_ingot"
 	},
 	"pattern": [
-		"##",
-		"##"
+		" # ",
+		"#S#",
+		" # "
 	],
 	"result": {
 		"id": "piglin_head",

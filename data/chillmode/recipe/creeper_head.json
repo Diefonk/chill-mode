@@ -3,11 +3,13 @@
 	"category": "misc",
 	"group": "head",
 	"key": {
+		"S": "skeleton_skull",
 		"#": "gunpowder"
 	},
 	"pattern": [
-		"##",
-		"##"
+		" # ",
+		"#S#",
+		" # "
 	],
 	"result": {
 		"id": "creeper_head",
