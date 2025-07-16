@@ -124,6 +124,10 @@ Skeleton skulls can be obtained from **piglin bartering**.
 
 ![](https://i.imgur.com/qmwsPex.png)
 
+1 "Lava Chicken" music disc can be crafted from **8 resin bricks** and **1 zombie head**.
+
+![](https://i.imgur.com/6Amj0wV.png)
+
 1 "mall" music disc can be crafted from **8 resin bricks** and **1 shulker shell**.
 
 ![](https://i.imgur.com/sjMq3Jh.png)

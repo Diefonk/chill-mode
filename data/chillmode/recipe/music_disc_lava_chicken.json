@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"group": "music_disc",
+	"key": {
+		"R": "resin_brick",
+		"#": "zombie_head"
+	},
+	"pattern": [
+		"RRR",
+		"R#R",
+		"RRR"
+	],
+	"result": {
+		"id": "music_disc_lava_chicken",
+		"count": 1
+	}
+}
