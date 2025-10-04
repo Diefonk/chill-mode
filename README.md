@@ -154,7 +154,7 @@ Skeleton skulls can be obtained from **piglin bartering**.
 
 1 "ward" music disc can be crafted from **8 resin bricks** and **1 enchanted golden apple**.
 
-![](https://i.imgur.com/gMeaq35.png)
+![](https://i.imgur.com/9zG1C7j.png)
 
 1 "11" music disc can be crafted from **8 resin bricks** and **1 wither skeleton skull**.
 
@@ -230,9 +230,9 @@ Tide armor trim smithing templates can be obtained from **fishing**.
 
 ### Totem of Undying
 
-1 totem of undying can be crafted from **9 golden apples**.
+1 totem of undying can be crafted from **8 golden apples** and **1 enchanted golden apple**.
 
-![](https://i.imgur.com/BBw65CV.png)
+![](https://i.imgur.com/FuCUN9d.png)
 
 ### Trial Keys
 

@@ -2,11 +2,12 @@
 	"type": "crafting_shaped",
 	"category": "equipment",
 	"key": {
-		"#": "golden_apple"
+		"#": "golden_apple",
+		"E": "enchanted_golden_apple"
 	},
 	"pattern": [
 		"###",
-		"###",
+		"#E#",
 		"###"
 	],
 	"result": {
