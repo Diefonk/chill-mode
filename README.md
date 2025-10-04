@@ -5,8 +5,8 @@ Chill Mode is a Minecraft data pack that aims to create a better version of the 
 
 ## Features
 
-* No monsters will spawn naturally or from monster spawners
 * No mobs are hostile\*
+* Monster spawners are deactivated
 * Alternative ways to obtain mob drops
 * Complete the game by breaking the end crystals
 
