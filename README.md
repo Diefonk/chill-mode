@@ -6,11 +6,11 @@ Chill Mode is a Minecraft data pack that aims to create a better version of the 
 ## Features
 
 * No mobs are hostile\*
-* Monster spawners are deactivated
+* Most monsters don't spawn
 * Alternative ways to obtain mob drops
 * Complete the game by breaking the end crystals
 
-\*Note that slimes and magma cubes hurt the player passively when colliding with them.
+\*Note that [slimes, magma cubes, and pufferfish hurt the player passively when colliding with them](https://bugs.mojang.com/browse/MC/issues/MC-256096).
 
 
 ## Mob Drop Alternatives
@@ -23,7 +23,7 @@ Chill Mode is a Minecraft data pack that aims to create a better version of the 
 
 ### Blaze Rod
 
-Blaze rods can be obtained from **piglin bartering**.
+Blaze rods can be obtained from **piglin bartering**. (Piglins spawn in **bastion remnants**.)
 
 ### Breeze Rod
 
@@ -39,7 +39,7 @@ Blaze rods can be obtained from **piglin bartering**.
 
 ### Ender Pearl
 
-Ender pearls can be obtained from **piglin bartering**, at double the normal amount.
+Ender pearls can be obtained from **piglin bartering**, at double the normal amount. (Piglins spawn in **bastion remnants**.)
 
 ### Feather
 
@@ -81,7 +81,7 @@ Gunpowder has a chance to drop from **mining basalt**.
 
 ### Heads
 
-Skeleton skulls can be obtained from **piglin bartering**.
+Skeleton skulls can be obtained from **piglin bartering**. (Piglins spawn in **bastion remnants**.)
 
 1 creeper head can be crafted from **1 skeleton skull** and **4 gunpowder**.
 
