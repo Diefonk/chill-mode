@@ -49,15 +49,15 @@ Feathers have a chance to drop from **chickens laying eggs**.
 
 1 ochre froglight can be crafted from **4 yellow dyes**, **4 papers**, and **1 glowstone**.
 
-![](https://i.imgur.com/60oukyj.png)
+![](https://i.imgur.com/wLXV3Xp.png)
 
 1 pearlescent froglight can be crafted from **4 purple dyes**, **4 papers**, and **1 glowstone**.
 
-![](https://i.imgur.com/1WBwgNe.png)
+![](https://i.imgur.com/WlGpyvQ.png)
 
 1 verdant froglight can be crafted from **4 lime dyes**, **4 papers**, and **1 glowstone**.
 
-![](https://i.imgur.com/1N5GTs2.png)
+![](https://i.imgur.com/Q5BXGAc.png)
 
 ### Ghast Tear
 
@@ -213,7 +213,7 @@ Skeleton skulls can be obtained from **piglin bartering**. (Piglins spawn in **b
 
 1 slime ball can be crafted from **1 honey bottle**, **1 wheat**, and **1 lime dye** (shapeless).
 
-![](https://i.imgur.com/HrEEMic.png)
+![](https://i.imgur.com/GBhB2qX.png)
 
 ### Spider Eye
 
