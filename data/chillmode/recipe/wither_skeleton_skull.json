@@ -11,8 +11,5 @@
 		"#S#",
 		" # "
 	],
-	"result": {
-		"id": "wither_skeleton_skull",
-		"count": 1
-	}
+	"result": "wither_skeleton_skull"
 }

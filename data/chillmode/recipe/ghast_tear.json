@@ -5,8 +5,5 @@
 		"crying_obsidian",
 		"soul_soil"
 	],
-	"result": {
-		"id": "ghast_tear",
-		"count": 1
-	}
+	"result": "ghast_tear"
 }

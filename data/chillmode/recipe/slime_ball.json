@@ -6,8 +6,5 @@
 		"wheat",
 		"lime_dye"
 	],
-	"result": {
-		"id": "slime_ball",
-		"count": 1
-	}
+	"result": "slime_ball"
 }

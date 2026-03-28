@@ -10,8 +10,5 @@
 		" D ",
 		" D "
 	],
-	"result": {
-		"id": "trident",
-		"count": 1
-	}
+	"result": "trident"
 }

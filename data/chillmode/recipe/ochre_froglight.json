@@ -12,8 +12,5 @@
 		"PGP",
 		"DPD"
 	],
-	"result": {
-		"id": "ochre_froglight",
-		"count": 1
-	}
+	"result": "ochre_froglight"
 }

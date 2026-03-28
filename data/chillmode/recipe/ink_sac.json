@@ -5,8 +5,5 @@
 		"water_bucket",
 		"#coals"
 	],
-	"result": {
-		"id": "ink_sac",
-		"count": 1
-	}
+	"result": "ink_sac"
 }

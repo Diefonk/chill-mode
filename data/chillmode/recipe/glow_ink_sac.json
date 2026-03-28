@@ -5,8 +5,5 @@
 		"ink_sac",
 		"glowstone_dust"
 	],
-	"result": {
-		"id": "glow_ink_sac",
-		"count": 1
-	}
+	"result": "glow_ink_sac"
 }

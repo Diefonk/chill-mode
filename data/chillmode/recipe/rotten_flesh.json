@@ -5,8 +5,5 @@
 		"#meat",
 		"poisonous_potato"
 	],
-	"result": {
-		"id": "rotten_flesh",
-		"count": 1
-	}
+	"result": "rotten_flesh"
 }

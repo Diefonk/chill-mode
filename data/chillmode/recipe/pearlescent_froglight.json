@@ -12,8 +12,5 @@
 		"PGP",
 		"DPD"
 	],
-	"result": {
-		"id": "pearlescent_froglight",
-		"count": 1
-	}
+	"result": "pearlescent_froglight"
 }

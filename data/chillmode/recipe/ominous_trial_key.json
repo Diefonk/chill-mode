@@ -5,8 +5,5 @@
 		"trial_key",
 		"ominous_bottle"
 	],
-	"result": {
-		"id": "ominous_trial_key",
-		"count": 1
-	}
+	"result": "ominous_trial_key"
 }

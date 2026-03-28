@@ -10,8 +10,5 @@
 		"#E#",
 		"###"
 	],
-	"result": {
-		"id": "totem_of_undying",
-		"count": 1
-	}
+	"result": "totem_of_undying"
 }

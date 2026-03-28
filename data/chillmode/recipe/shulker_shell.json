@@ -9,8 +9,5 @@
 		"PPP",
 		"PDP"
 	],
-	"result": {
-		"id": "shulker_shell",
-		"count": 1
-	}
+	"result": "shulker_shell"
 }

@@ -11,8 +11,5 @@
 		"R#R",
 		"RRR"
 	],
-	"result": {
-		"id": "music_disc_stal",
-		"count": 1
-	}
+	"result": "music_disc_stal"
 }

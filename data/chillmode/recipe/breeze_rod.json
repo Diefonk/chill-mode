@@ -5,8 +5,5 @@
 		"blaze_rod",
 		"wind_charge"
 	],
-	"result": {
-		"id": "breeze_rod",
-		"count": 1
-	}
+	"result": "breeze_rod"
 }

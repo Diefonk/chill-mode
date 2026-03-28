@@ -5,8 +5,5 @@
 		"#small_flowers",
 		"wither_skeleton_skull"
 	],
-	"result": {
-		"id": "wither_rose",
-		"count": 1
-	}
+	"result": "wither_rose"
 }

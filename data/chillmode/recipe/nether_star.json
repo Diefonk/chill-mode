@@ -11,8 +11,5 @@
 		"NQN",
 		"GNG"
 	],
-	"result": {
-		"id": "nether_star",
-		"count": 1
-	}
+	"result": "nether_star"
 }

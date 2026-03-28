@@ -13,8 +13,5 @@
 		"##",
 		"##"
 	],
-	"result": {
-		"id": "leather",
-		"count": 1
-	}
+	"result": "leather"
 }

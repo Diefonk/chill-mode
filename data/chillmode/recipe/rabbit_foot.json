@@ -5,8 +5,5 @@
 		"rabbit_hide",
 		"#wool"
 	],
-	"result": {
-		"id": "rabbit_foot",
-		"count": 1
-	}
+	"result": "rabbit_foot"
 }

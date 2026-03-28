@@ -11,8 +11,5 @@
 		"#S#",
 		" # "
 	],
-	"result": {
-		"id": "creeper_head",
-		"count": 1
-	}
+	"result": "creeper_head"
 }

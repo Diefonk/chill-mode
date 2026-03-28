@@ -12,8 +12,5 @@
 		"PGP",
 		"DPD"
 	],
-	"result": {
-		"id": "verdant_froglight",
-		"count": 1
-	}
+	"result": "verdant_froglight"
 }

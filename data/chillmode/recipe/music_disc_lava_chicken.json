@@ -11,8 +11,5 @@
 		"R#R",
 		"RRR"
 	],
-	"result": {
-		"id": "music_disc_lava_chicken",
-		"count": 1
-	}
+	"result": "music_disc_lava_chicken"
 }

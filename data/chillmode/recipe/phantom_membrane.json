@@ -9,8 +9,5 @@
 		"###",
 		"###"
 	],
-	"result": {
-		"id": "phantom_membrane",
-		"count": 1
-	}
+	"result": "phantom_membrane"
 }
