@@ -19,7 +19,7 @@ Chill Mode is a Minecraft data pack that aims to create a better version of the 
 
 6 bones can be crafted from **2 bone blocks**.
 
-![](https://i.imgur.com/XyBzeFT.png)
+![](images/bone.png)
 
 ### Blaze Rod
 
@@ -29,13 +29,13 @@ Blaze rods can be obtained from **piglin bartering**. (Piglins spawn in **bastio
 
 1 breeze rod can be crafted from **1 blaze rod** and **1 wind charge** (shapeless).
 
-![](https://i.imgur.com/nM8jA0R.png)
+![](images/breeze_rod.png)
 
 ### Dragon's Breath
 
 8 dragon's breath can be crafted from **8 glass bottles** and **1 dragon head**.
 
-![](https://i.imgur.com/xfjc7UY.png)
+![](images/dragon_breath.png)
 
 ### Ender Pearl
 
@@ -49,27 +49,27 @@ Feathers have a chance to drop from **chickens laying eggs**.
 
 1 ochre froglight can be crafted from **4 yellow dyes**, **4 papers**, and **1 glowstone**.
 
-![](https://i.imgur.com/wLXV3Xp.png)
+![](images/ochre_froglight.png)
 
 1 pearlescent froglight can be crafted from **4 purple dyes**, **4 papers**, and **1 glowstone**.
 
-![](https://i.imgur.com/WlGpyvQ.png)
+![](images/pearlescent_froglight.png)
 
 1 verdant froglight can be crafted from **4 lime dyes**, **4 papers**, and **1 glowstone**.
 
-![](https://i.imgur.com/Q5BXGAc.png)
+![](images/verdant_froglight.png)
 
 ### Ghast Tear
 
 1 ghast tear can be crafted from **1 crying obsidian** and **1 soul soil** (shapeless).
 
-![](https://i.imgur.com/e1uFqKR.png)
+![](images/ghast_tear.png)
 
 ### Glow Ink Sac
 
 1 glow ink sac can be crafted from **1 ink sac** and **1 glowstone dust** (shapeless).
 
-![](https://i.imgur.com/talEbnY.png)
+![](images/glow_ink_sac.png)
 
 ### Goat Horn
 
@@ -85,135 +85,135 @@ Skeleton skulls can be obtained from **piglin bartering**. (Piglins spawn in **b
 
 1 creeper head can be crafted from **1 skeleton skull** and **4 gunpowder**.
 
-![](https://i.imgur.com/Hz1iLAV.png)
+![](images/creeper_head.png)
 
 1 piglin head can be crafted from **1 skeleton skull** and **4 gold ingots**.
 
-![](https://i.imgur.com/9EZTj4Y.png)
+![](images/piglin_head.png)
 
 1 wither skeleton skull can be crafted from **1 skeleton skull** and **4 coals**.
 
-![](https://i.imgur.com/UW3CAlF.png)
+![](images/wither_skeleton_skull.png)
 
 1 zombie head can be crafted from **1 skeleton skull** and **4 rotten flesh**.
 
-![](https://i.imgur.com/24L9Oel.png)
+![](images/zombie_head.png)
 
 ### Ink Sac
 
 1 ink sac can be crafted from **1 water bucket** and **1 coal/charcoal** (shapeless).
 
-![](https://i.imgur.com/GfBjxys.png)
+![](images/ink_sac.png)
 
 ### Leather
 
 1 leather can be crafted from **4 of any mushroom/fungus**.
 
-![](https://i.imgur.com/sFsbItk.png)
+![](images/leather.png)
 
 ### Music Discs
 
 1 "blocks" music disc can be crafted from **8 resin bricks** and **1 grass block**.
 
-![](https://i.imgur.com/co91sJz.png)
+![](images/music_disc_blocks.png)
 
 1 "chirp" music disc can be crafted from **8 resin bricks** and **1 torchflower**.
 
-![](https://i.imgur.com/LqGCiVa.png)
+![](images/music_disc_chirp.png)
 
 1 "far" music disc can be crafted from **8 resin bricks** and **1 bottle o' enchanting**.
 
-![](https://i.imgur.com/qmwsPex.png)
+![](images/music_disc_far.png)
 
 1 "Lava Chicken" music disc can be crafted from **8 resin bricks** and **1 zombie head**.
 
-![](https://i.imgur.com/6Amj0wV.png)
+![](images/music_disc_lava_chicken.png)
 
 1 "mall" music disc can be crafted from **8 resin bricks** and **1 shulker shell**.
 
-![](https://i.imgur.com/sjMq3Jh.png)
+![](images/music_disc_mall.png)
 
 1 "mellohi" music disc can be crafted from **8 resin bricks** and **1 nautilus shell**.
 
-![](https://i.imgur.com/tUm4PVK.png)
+![](images/music_disc_mellohi.png)
 
 1 "stal" music disc can be crafted from **8 resin bricks** and **1 goat horn**.
 
-![](https://i.imgur.com/Y1Zu9Pl.png)
+![](images/music_disc_stal.png)
 
 1 "strad" music disc can be crafted from **8 resin bricks** and **1 diamond horse armor**.
 
-![](https://i.imgur.com/OOA6wYC.png)
+![](images/music_disc_strad.png)
 
 1 "Tears" music disc can be crafted from **8 resin bricks** and **1 dried ghast**.
 
-![](https://i.imgur.com/rP4tB5Y.png)
+![](images/music_disc_tears.png)
 
 1 "wait" music disc can be crafted from **8 resin bricks** and **1 heart of the sea**.
 
-![](https://i.imgur.com/tRRPG84.png)
+![](images/music_disc_wait.png)
 
 1 "ward" music disc can be crafted from **8 resin bricks** and **1 enchanted golden apple**.
 
-![](https://i.imgur.com/9zG1C7j.png)
+![](images/music_disc_ward.png)
 
 1 "11" music disc can be crafted from **8 resin bricks** and **1 wither skeleton skull**.
 
-![](https://i.imgur.com/nR15iU8.png)
+![](images/music_disc_11.png)
 
 ### Nether Star
 
 1 nether star can be crafted from **4 glowstone dust**, **4 netherite ingots**, and **1 quartz**.
 
-![](https://i.imgur.com/X97SfNt.png)
+![](images/nether_star.png)
 
 ### Phantom Membrane
 
 1 phantom membrane can be crafted from **9 popped chorus fruits**.
 
-![](https://i.imgur.com/5yvR63s.png)
+![](images/phantom_membrane.png)
 
 ### Prismarine Shard
 
 4 prismarine shards can be crafted from **1 prismarine**.
 
-![](https://i.imgur.com/4TThnHk.png)
+![](images/prismarine_shard.png)
 
 ### Rabbit Foot
 
 1 rabbit foot can be crafted from **1 rabbit hide** and **1 wool** (shapeless).
 
-![](https://i.imgur.com/5DbhuoS.png)
+![](images/rabbit_foot.png)
 
 ### Rabbit Hide
 
 4 rabbit hides can be crafted from **1 leather**.
 
-![](https://i.imgur.com/VeCPkvJ.png)
+![](images/rabbit_hide.png)
 
 ### Resin Clump
 
 4 resin clumps can be crafted from **2 stripped pale oak logs** (shapeless).
 
-![](https://i.imgur.com/6UXDEPl.png)
+![](images/resin_clump.png)
 
 ### Rotten Flesh
 
 1 rotten flesh can be crafted from **1 of any meat** and **1 poisonous potato** (shapeless).
 
-![](https://i.imgur.com/q5PNu1r.png)
+![](images/rotten_flesh.png)
 
 ### Shulker Shell
 
 1 shulker shell can be crafted from **5 purpur blocks** and **1 diamond**.
 
-![](https://i.imgur.com/ikUUxg2.png)
+![](images/shulker_shell.png)
 
 ### Slime Ball
 
 1 slime ball can be crafted from **1 honey bottle**, **1 wheat**, and **1 lime dye** (shapeless).
 
-![](https://i.imgur.com/GBhB2qX.png)
+![](images/slime_ball.png)
 
 ### Spider Eye
 
@@ -223,7 +223,7 @@ Spider eyes have a chance to drop from **breaking cobwebs**.
 
 4 strings can be crafted from **1 wool**.
 
-![](https://i.imgur.com/w0yTv5p.png)
+![](images/string.png)
 
 ### Tide Armor Trim
 
@@ -233,7 +233,7 @@ Tide armor trim smithing templates can be obtained from **fishing**.
 
 1 totem of undying can be crafted from **8 golden apples** and **1 enchanted golden apple**.
 
-![](https://i.imgur.com/FuCUN9d.png)
+![](images/totem_of_undying.png)
 
 ### Trial Keys
 
@@ -241,16 +241,16 @@ Trial keys can be obtained from **trial chamber pots**, at a higher chance and a
 
 1 ominous trial key can be crafted from **1 trial key** and **1 ominous bottle** (shapeless).
 
-![](https://i.imgur.com/390SgmA.png)
+![](images/ominous_trial_key.png)
 
 ### Trident
 
 1 trident can be crafted from **3 prismarine shards** and **2 diamonds**.
 
-![](https://i.imgur.com/fJjngpi.png)
+![](images/trident.png)
 
 ### Wither Rose
 
 1 wither rose can be crafted from **1 of any small flower** and **1 wither skeleton skull** (shapeless).
 
-![](https://i.imgur.com/GxXOayh.png)
+![](images/wither_rose.png)
