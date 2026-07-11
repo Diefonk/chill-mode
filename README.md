@@ -83,7 +83,9 @@ All goat horn variants can be found in **pillager outpost chests**.
 
 ### Gunpowder
 
-Gunpowder has a chance to drop from **mining basalt**.
+2 gunpowder can be crafted from **1 sulfur spike**, **1 charcoal**, and **2 bone meal** (shapeless).
+
+![](images/gunpowder.png)
 
 ### Heads
 
