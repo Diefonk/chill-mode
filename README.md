@@ -31,6 +31,12 @@ Blaze rods can be obtained from **piglin bartering**. (Piglins spawn in **bastio
 
 ![](images/breeze_rod.png)
 
+### Bucket of Sulfur Cube
+
+1 bucket of sulfur cube can be crafted from **1 bucket** and **8 potent sulfur**.
+
+![](images/sulfur_cube_bucket.png)
+
 ### Dragon's Breath
 
 8 dragon's breath can be crafted from **8 glass bottles** and **1 dragon head**.

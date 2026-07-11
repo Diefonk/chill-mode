@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"key": {
+		"B": "bucket",
+		"S": "potent_sulfur"
+	},
+	"pattern": [
+		"SSS",
+		"SBS",
+		"SSS"
+	],
+	"result": "sulfur_cube_bucket"
+}
